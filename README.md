@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoseRDQZ
+- 👋 Hi, I’m @JoseRDGZ
 - 👀 I’m interested in showing my progress as learn more about Computer Science
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on ...
